@@ -16,7 +16,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Calculadora"),
-        centerTitle: true,
+        centerTitle: false,
       ),
       //This is a comment
       body: ListView(
